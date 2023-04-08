@@ -6,7 +6,7 @@ Estudiante del grado de Desarrollo de Videojuegos por la UCM, interesado en el d
     <img align="center" src="imgs/ps1_bichito.gif" width="70%">
 </p>
 
-<details open> 
+<details> 
   <summary><h2>Resumen de mi github</h2></summary>
 
   ## Repositorios destacados de Juegos
